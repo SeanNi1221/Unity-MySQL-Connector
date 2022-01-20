@@ -1,0 +1,24 @@
+{
+  "name": "sean21.mysql_connector",
+  "version": "0.0.1",
+  "displayName": "MySQL Connector",
+  "description": "A MySQL connector for Unity Editor and multi-platform runtime",
+  "unity": "2019.4",
+  "documentationUrl": "https://github.com/SeanNi1221/Unity-MySQL-Connector#readme",
+  "changelogUrl": "https://github.com/SeanNi1221/Unity-MySQL-Connector/releases",
+  "licensesUrl": "https://github.com/SeanNi1221/Unity-MySQL-Connector/blob/main/LICENSE",
+  "keywords": [
+    "connector",
+    "MySQL"
+  ],
+  "author": {
+    "name": "Sean Ni",
+    "email": "Sean.21@outlook.com",
+    "url": "https://www.example.com"
+  },
+  "hideInEditor": false,
+  "repository": {
+    "url": "https://github.com/SeanNi1221/Unity-MySQL-Connector.git",
+    "type": "git"
+  }
+}

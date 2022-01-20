@@ -1,0 +1,22 @@
+{
+    "name": "Sean21.MySQLConnector.Editor.Tests",
+    "references": [
+        "Sean21.MySQLConnector.Tests",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "Sean21.MySQLConnector"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
